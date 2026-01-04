@@ -59,8 +59,8 @@ Durante o desenvolvimento do projeto foram realizadas etapas de:
 
 ## 📂 Arquivos do Projeto
 
-- [`BaseFuncionarios.xlsx`](files/BaseFuncionarios.xlsx)
-- [`Dashboard RH.pbix`](files/Dashboard%20RH.pbix)
+- [`BaseFuncionarios.xlsx`](https://github.com/dayanesantos-ds/analise-de-producao-dashboard/blob/main/arquivos-do-projeto/Produ%C3%A7%C3%A3o.xlsx)
+- [`Dashboard RH.pbix`](https://github.com/dayanesantos-ds/analise-de-producao-dashboard/blob/main/arquivos-do-projeto/Dashbord%20Produ%C3%A7%C3%A3o.pbix)
 
 
 ---
