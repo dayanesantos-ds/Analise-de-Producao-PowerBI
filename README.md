@@ -10,6 +10,9 @@ Desenvolvimento de um **dashboard gerencial de Produção** focado no acompanham
 
 [Abrir Dashboard de Produção](https://app.powerbi.com/view?r=eyJrIjoiNjk0OTQxZDgtNTM3Zi00MjExLTgwMDItNmQ5MzAzMDlhZDQ4IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 
+📌 Visualização do Dashboard (print):  
+![Diagrama do Banco](https://github.com/dayanesantos-ds/analise-de-producao-dashboard/blob/main/arquivos-do-projeto/Print%20Dashboard%20Produ%C3%A7%C3%A3o.png)
+
 ---
 
 ## 🎯 Objetivo do Projeto
