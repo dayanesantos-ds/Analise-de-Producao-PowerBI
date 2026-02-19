@@ -1,79 +1,123 @@
-# 🏭 Dashboard de Produção — Eficiência Operacional e Produtividade
+#  Análise de Produção 
 
-Desenvolvimento de um **dashboard gerencial de Produção** focado no acompanhamento da **eficiência operacional e produtividade industrial**. O Dashboard foi desenvolvido no **Power BI** como parte de um projeto simulado com aplicação prática.
+##  Descrição do Projeto
+
+Este projeto apresenta um dashboard de produção desenvolvido a partir de dados fictícios de um ambiente industrial, com foco no acompanhamento de desempenho operacional, produtividade e qualidade.O dashboard permite uma visualização clara e interativa dos principais indicadores de produção, apoiando a análise e a tomada de decisão.
 
 ---
 
-## 🔗 Acesse o Dashboard Online
+##  Acesse o Dashboard Online
 
 👉 Visualize o painel publicado no Power BI Service:  
 
 [Abrir Dashboard de Produção](https://app.powerbi.com/view?r=eyJrIjoiNjk0OTQxZDgtNTM3Zi00MjExLTgwMDItNmQ5MzAzMDlhZDQ4IiwidCI6IjQ5ZjM1ZjU0LTIyMjAtNDVmMS1iZmFlLTgzOWEyZGE1NjhkNCJ9)
 
-📌 Visualização do Dashboard (print):  
+---
+
+## Visualização do Dashboard (print):  
+
 ![Diagrama do Banco](https://github.com/dayanesantos-ds/analise-de-producao-dashboard/blob/main/arquivos-do-projeto/Print%20Dashboard%20Produ%C3%A7%C3%A3o.png)
 
 ---
 
-## 🎯 Objetivo do Projeto
+##  Arquivos do Projeto
 
-Fornecer uma visão analítica sobre a operação de fábrica, permitindo o acompanhamento de indicadores de:
-
-- ⏱️ **Horas Produtivas**
-- ⚙️ **Percentual de Produtividade**
-
-O dashboard apoia decisões de desempenho operacional, utilização de tempo produtivo e acompanhamento de resultados ao longo do período.
+- [`BaseFuncionarios.xlsx`](https://github.com/dayanesantos-ds/analise-de-producao-dashboard/blob/main/arquivos-do-projeto/Produ%C3%A7%C3%A3o.xlsx)
 
 ---
 
-## 🧠 Principais Insights e Indicadores
+## Objetivo da Análise
 
-- Total de **Horas Produtivas**
-- **Percentual de Produtividade da Produção**
-- Evolução temporal da produção
-- Comparação de desempenho entre períodos
+O objetivo deste projeto é monitorar e analisar o desempenho produtivo da operação, fornecendo indicadores claros e visuais que auxiliem na identificação de gargalos, eficiência operacional e qualidade do processo, com foco em:
 
-Esses indicadores ajudam a identificar **gargalos operacionais, eficiência do processo produtivo e oportunidades de melhoria contínua**.
+• Análise do volume de produção
+
+• Avaliação das horas produtivas vs horas paradas
+
+• Monitoramento da produtividade operacional
+
+• Acompanhamento da taxa de aprovação de peças
+
+• Análise da performance ao longo dos meses
 
 ---
 
-## 🔧 Preparação e Transformação dos Dados
+## Ferramentas e Competências Utilizadas
+
+• **Power BI**
+
+• **Power Query (ETL)**
+
+• **DAX**
+
+• **Modelagem de Dados**
+
+• **Análise de Desempenho Operacional**
+
+• **Storytelling com Dados**
+
+---
+
+##  Preparação e Transformação dos Dados
 
 Durante o desenvolvimento do projeto foram realizadas etapas de:
 
-- 🔹 **Importação da base Excel para o Power BI**
-- 🔹 **Tratamento e padronização dos dados no Power Query (ETL)**
-- 🔹 **Criação de colunas e métricas calculadas com DAX**
-- 🔹 **Modelagem e estruturação do dataset para análise**
-- 🔹 Construção do dashboard com foco em **clareza e tomada de decisão**
+• **Importação da base Excel para o Power BI**
+
+•  **Tratamento e padronização dos dados no Power Query (ETL)**
+
+•  **Criação de colunas e métricas calculadas com DAX**
+
+•  **Modelagem e estruturação do dataset para análise**
+
+•  Construção do dashboard com foco em **clareza e tomada de decisão**
 
 ---
 
-## 🛠️ Ferramentas e Competências Utilizadas
+## Indicadores Analisados (KPIs)
 
-- 🟡 **Power BI**
-- 🔵 **Power Query (ETL)**
-- 📊 **DAX**
-- 📐 **Modelagem de Dados**
-- 🔍 **Análise de Desempenho Operacional**
-- 🧩 **Storytelling com Dados**
+• Total aprovado
 
----
+• Total rejeitado
 
-## 📂 Arquivos do Projeto
+• Horas produtivas
 
-- [`BaseFuncionarios.xlsx`](https://github.com/dayanesantos-ds/analise-de-producao-dashboard/blob/main/arquivos-do-projeto/Produ%C3%A7%C3%A3o.xlsx)
-- [`Dashboard RH.pbix`](https://github.com/dayanesantos-ds/analise-de-producao-dashboard/blob/main/arquivos-do-projeto/Dashbord%20Produ%C3%A7%C3%A3o.pbix)
+• Horas paradas
 
+• Produtividade (%)
 
----
+• Percentual de peças aprovadas (%)
 
-## 🧑‍🎓 Contexto
-
-Projeto simulado com aplicação prática em **ambiente industrial**, desenvolvido para portfólio na área de **Data Analytics e Performance Operacional**.
+• Evolução das horas totais ao longo dos meses
 
 ---
 
-## 🏷️ Autor
+## Principais Insights
 
-Projeto desenvolvido por **[Dayane Santos]**. Em aprendizado com a Hashtag.
+A análise dos indicadores demonstra que a operação apresenta um alto índice de qualidade, com 99,32% das peças aprovadas, indicando um processo produtivo bem controlado e com baixo índice de retrabalho.
+
+O indicador de produtividade geral alcança 77,69%, evidenciando oportunidades de melhoria relacionadas à redução de horas paradas e otimização do uso dos recursos produtivos.
+
+A análise mensal das horas totais revela variações significativas ao longo do ano, sugerindo possíveis impactos de sazonalidade, ajustes operacionais ou paradas planejadas, reforçando a importância do acompanhamento contínuo dos dados.
+
+---
+
+## Conclusão
+
+Os resultados evidenciam que o dashboard é uma ferramenta eficaz para o monitoramento da performance industrial, permitindo uma visão integrada de produtividade, qualidade e utilização do tempo produtivo.
+
+A análise dos dados possibilita:
+
+• Identificação de gargalos operacionais
+
+• Apoio à tomada de decisão baseada em dados
+
+• Melhoria contínua dos processos produtivos
+
+• Acompanhamento da eficiência operacional ao longo do tempo
+
+---
+
+##  Autor
+
+Projeto desenvolvido por **[Dayane Santos]**. Em aprendizado com a Hashtag Treinamentos.
